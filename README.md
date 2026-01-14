@@ -3,8 +3,6 @@
 An interactive **Sales & Profit Dashboard** designed to provide meaningful business insights by analyzing sales performance, profit distribution, and regional trends.  
 This project demonstrates practical skills in **data analysis, visualization, and dashboard design** using Microsoft Excel.
 
----
-
 ## 🚀 Project Overview
 
 The Sales & Profit Dashboard helps stakeholders:
@@ -16,7 +14,7 @@ The Sales & Profit Dashboard helps stakeholders:
 
 This dashboard is suitable for **business analysis, academic projects, and portfolio showcase**.
 
----
+
 
 ## 🛠 Tools & Technologies Used
 

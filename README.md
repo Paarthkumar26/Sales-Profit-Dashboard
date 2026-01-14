@@ -61,6 +61,7 @@ This dashboard is suitable for **business analysis, academic projects, and portf
 <img width="857" height="453" alt="Capture" src="https://github.com/user-attachments/assets/b093b75f-ade9-4f14-ac2c-c7a703a15024" />
 
 ## 🎥 Dashboard Demo Video
+▶️ Watch the full demo here: 
 
 https://github.com/user-attachments/assets/7bbf1042-1437-4a96-8097-92cbdb231197
 

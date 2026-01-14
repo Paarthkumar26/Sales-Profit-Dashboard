@@ -34,7 +34,6 @@ This dashboard is suitable for **business analysis, academic projects, and portf
   - KPI Cards
   - Map Chart (Sales by State)
 
----
 
 ## 📌 Key Features
 
@@ -56,13 +55,11 @@ This dashboard is suitable for **business analysis, academic projects, and portf
 - 🥧 Profit Contribution by Region  
 - 🏆 Top 5 Products by Sales  
 
----
 
 ## 📸 Dashboard Preview
 
 <img width="857" height="453" alt="Capture" src="https://github.com/user-attachments/assets/b093b75f-ade9-4f14-ac2c-c7a703a15024" />
 
----
 
 ## 📊 Dataset Description
 
@@ -75,9 +72,6 @@ The dataset contains the following fields:
 - Date
 - Year
 
-> The data was cleaned, structured, and transformed before creating visualizations.
-
----
 
 ## 🔄 Data Processing Steps
 
@@ -90,7 +84,6 @@ The dataset contains the following fields:
 5. Connected slicers to all visuals
 6. Designed a dark-themed dashboard for better readability
 
----
 
 ## 💡 Insights Generated
 
@@ -99,7 +92,6 @@ The dataset contains the following fields:
 - Seasonal trends affect monthly sales
 - Profit percentage varies significantly across regions
 
----
 
 ## 🎯 Use Cases
 
@@ -109,7 +101,6 @@ The dataset contains the following fields:
 - Data Analytics Portfolio
 - Management Reporting
 
----
 
 ## 📈 Future Improvements
 
@@ -118,7 +109,6 @@ The dataset contains the following fields:
 - Add customer-level analysis
 - Convert dashboard into Power BI version
 
----
 
 ## 👤 Author
 
@@ -127,7 +117,6 @@ The dataset contains the following fields:
 🔗 GitHub: https://github.com/your-Paarthkumar26
 🔗 LinkedIn: https://www.linkedin.com/in/paarth-kumar/
 
----
 
 ## ⭐ Feedback
 
